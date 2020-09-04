@@ -1,2 +1,2 @@
-# Unofficial-Document-of-OriginPro
-Unofficial document of OriginPro: about OriginC, LabTalk and PyOrigin
+# Undocumente-OriginPro
+Undocumented OriginPro: tips about OriginC, LabTalk and PyOrigin
