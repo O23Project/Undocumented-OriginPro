@@ -1,4 +1,4 @@
-1. [Intersection of sets](#Intersection of sets)
+1. [Intersection of sets](#Intersection-of-sets)
 
 ### Intersection of sets
 ```python
